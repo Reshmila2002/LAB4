@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Local H2 database files (only used for the optional persistence challenge)
+data/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating-system files
+.DS_Store
+Thumbs.db
